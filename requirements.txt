@@ -1,0 +1,6 @@
+# Test dependencies
+pdbpp
+flake8
+pytest
+pytest-cov
+mock
