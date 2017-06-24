@@ -1,0 +1,11 @@
+[{
+  "name": "iterations",
+  "type": "int",
+  "desc": "Total number of iterations to train",
+  "value": 1000
+}, {
+  "name": "weight_decay",
+  "type": "float",
+  "desc": "Decay on model weights",
+  "value": 0
+}]

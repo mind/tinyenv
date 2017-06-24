@@ -18,4 +18,13 @@ setup(
     url='https://github.com/mind/tinyenv',
     packages=find_packages(),
     install_requires=requires,
+    license='MIT',
+    classifiers=[
+        'Development Status :: 2 - Pre-Alpha',
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.6',
+        'Topic :: Scientific/Engineering :: Artificial Intelligence',
+    ]
 )

@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from tiny.utils import fileutil as fu
+from tinyenv.utils import fileutil as fu
 
 NASDAQ = {
     'path': 'tests/fixtures/nasdaq.csv',
