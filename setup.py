@@ -6,7 +6,7 @@ __version__ = '0.1.0'
 
 requires = [
     'clint==0.5.1',
-    'requests==2.14.2',
+    'requests==2.20.0',
 ]
 
 setup(
